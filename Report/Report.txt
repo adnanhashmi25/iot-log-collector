@@ -1,0 +1,1 @@
+All the logs from all the server will be collected here 
