@@ -1,0 +1,1 @@
+Logs from the particular server is saved here
